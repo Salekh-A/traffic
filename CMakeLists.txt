@@ -9,7 +9,7 @@ add_executable(traffic
     C:/users/abulg/mp2-lab1-set/src/tbitfield.cpp
 )
 
-target_include_directories(traffic PRIVATE 
+target_include_directories(traffic
     traffic2
     C:/users/abulg/mp2-lab1-set/include
 )
