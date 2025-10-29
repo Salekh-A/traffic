@@ -1,4 +1,4 @@
-﻿#include "../traffic2/traffic_light.h"
+﻿#include "traffic_light.h"
 int main() {
 	crossroad perekr;
 	perekr.nach();
