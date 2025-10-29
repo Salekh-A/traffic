@@ -1,0 +1,13 @@
+build/
+build2/
+.vs/
+*.vcxproj*
+*.sln
+*.exe
+*.lib
+*.dll
+CMakeCache.txt > .gitignore
+//
+/
+/> .gitignore
+
