@@ -6,8 +6,4 @@ build2/
 *.exe
 *.lib
 *.dll
-CMakeCache.txt > .gitignore
-//
-/
-/> .gitignore
 
